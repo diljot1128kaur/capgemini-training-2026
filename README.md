@@ -1,0 +1,1 @@
+# capgemini-training-2026
