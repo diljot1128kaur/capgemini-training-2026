@@ -1,3 +1,0 @@
-This is a sample file.
-Testing file reading performance.
-Java IO streams example.
