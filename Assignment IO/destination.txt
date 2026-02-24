@@ -1,4 +1,0 @@
-Hello World!
-This is a sample text file.
-File Handling in Java is easy.
-Streams are used to read and write data.
